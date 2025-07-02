@@ -1,0 +1,107 @@
+[
+  {
+    "id": "football",
+    "name": "Football",
+    "icon": "⚽",
+    "description": "Maillots de football des plus grands clubs européens",
+    "subcategories": [
+      {
+        "id": "premier-league",
+        "name": "Premier League",
+        "clubs": ["Arsenal", "Liverpool", "Manchester United", "Chelsea", "Manchester City", "Tottenham"]
+      },
+      {
+        "id": "la-liga",
+        "name": "La Liga",
+        "clubs": ["Real Madrid", "FC Barcelone", "Atlético Madrid", "Sevilla", "Villarreal"]
+      },
+      {
+        "id": "ligue-1",
+        "name": "Ligue 1",
+        "clubs": ["PSG", "Marseille", "Lyon", "Monaco", "Lille"]
+      },
+      {
+        "id": "bundesliga",
+        "name": "Bundesliga",
+        "clubs": ["Bayern Munich", "Borussia Dortmund", "RB Leipzig", "Bayer Leverkusen"]
+      },
+      {
+        "id": "serie-a",
+        "name": "Serie A",
+        "clubs": ["Juventus", "AC Milan", "Inter Milan", "Napoli", "AS Roma"]
+      }
+    ]
+  },
+  {
+    "id": "basketball",
+    "name": "Basketball",
+    "icon": "🏀",
+    "description": "Maillots NBA et équipes internationales",
+    "subcategories": [
+      {
+        "id": "nba",
+        "name": "NBA",
+        "clubs": ["Lakers", "Warriors", "Bulls", "Celtics", "Heat", "Nets"]
+      },
+      {
+        "id": "euroleague",
+        "name": "EuroLeague",
+        "clubs": ["Real Madrid", "FC Barcelone", "CSKA Moscou", "Panathinaikos"]
+      }
+    ]
+  },
+  {
+    "id": "tennis",
+    "name": "Tennis",
+    "icon": "🎾",
+    "description": "Équipements tennis professionnels",
+    "subcategories": [
+      {
+        "id": "atp",
+        "name": "ATP Tour",
+        "clubs": []
+      },
+      {
+        "id": "wta",
+        "name": "WTA Tour",
+        "clubs": []
+      }
+    ]
+  },
+  {
+    "id": "natation",
+    "name": "Natation",
+    "icon": "🏊",
+    "description": "Maillots de bain professionnels",
+    "subcategories": [
+      {
+        "id": "competition",
+        "name": "Compétition",
+        "clubs": []
+      },
+      {
+        "id": "entrainement",
+        "name": "Entraînement",
+        "clubs": []
+      }
+    ]
+  },
+  {
+    "id": "golf",
+    "name": "Golf",
+    "icon": "⛳",
+    "description": "Équipements golf haut de gamme",
+    "subcategories": [
+      {
+        "id": "polo",
+        "name": "Polos",
+        "clubs": []
+      },
+      {
+        "id": "pantalons",
+        "name": "Pantalons",
+        "clubs": []
+      }
+    ]
+  }
+]
